@@ -1695,14 +1695,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ABC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ABC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN 2 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-hd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN 2 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (Sky Sports Main Event FHD UK)
@@ -1963,14 +1961,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ABC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ABC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN 2 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-hd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN 2 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (Sky Sports Main Event FHD UK)
@@ -1999,8 +1995,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (Sport 5 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-14 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-14 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-la-dodgers-hd-us.webp",[MLB] 2026-09-14 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (Spectrum Sportsnet LA Dodgers HD US)
@@ -2065,8 +2059,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2129,8 +2121,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2193,8 +2183,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2267,8 +2255,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.Sports.Max.4.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4-hd-fr.webp",[MLB] 2026-09-15 22:40 - MLB - Cleveland Guardians vs Chicago White Sox (beIN Sports Max 4 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%20FR&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-la-dodgers-hd-us.webp",[MLB] 2026-09-15 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (Spectrum Sportsnet LA Dodgers HD US)
@@ -2331,8 +2317,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2395,8 +2379,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2459,8 +2441,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2545,8 +2525,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 19:07 - MLB - Toronto Blue Jays vs Detroit Tigers (TVA Sports CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-la-dodgers-hd-us.webp",[MLB] 2026-09-16 22:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (Spectrum Sportsnet LA Dodgers HD US)
@@ -2597,8 +2575,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 00:40 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2661,8 +2637,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2725,8 +2699,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2783,8 +2755,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%202%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-17 16:35 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-17 16:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-17 16:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-la-dodgers-hd-us.webp",[MLB] 2026-09-17 16:40 - MLB - Cincinnati Reds vs Los Angeles Dodgers (Spectrum Sportsnet LA Dodgers HD US)
@@ -2803,8 +2773,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20N
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 19:10 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 19:10 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 19:10 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[MLB] 2026-09-17 19:10 - MLB - Colorado Rockies vs San Diego Padres (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -2877,8 +2845,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-18 01:38 - MLB - Los Angeles Angels vs Minnesota Twins (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-18 22:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-18 22:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-18 22:40 - MLB - Pittsburgh Pirates vs Kansas City Royals (MLB | Pittsburgh Pirates)
@@ -2951,8 +2917,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-19 22:10 - MLB - Cleveland Guardians vs Athletics (MLB | Oakland Athletics)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-19 22:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-19 22:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-19 22:40 - MLB - Pittsburgh Pirates vs Kansas City Royals (MLB | Pittsburgh Pirates)
@@ -3001,8 +2965,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-20 17:35 - MLB - Pittsburgh Pirates vs Kansas City Royals (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-20 17:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-20 17:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-20 17:40 - MLB - Cleveland Guardians vs Athletics (MLB | Cleveland Guardians)
@@ -3091,6 +3053,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC%20Arabiya%20FHD&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.West.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-west-us.webp",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (USA Network West US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20West%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CNBC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (CNBC US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CNBC.World.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (CNBC World US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC%20World%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CNBC.World.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (CNBC World US)
