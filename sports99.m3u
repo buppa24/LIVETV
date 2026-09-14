@@ -1701,8 +1701,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-hd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN 2 HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN 2 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (Sky Sports Main Event FHD UK)
@@ -1969,8 +1969,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-hd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN 2 HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN 2 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (Sky Sports Main Event FHD UK)
@@ -3091,8 +3091,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC%20Arabiya%20FHD&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.West.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-west-us.webp",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (USA Network West US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20West%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CNBC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (CNBC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CNBC.World.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (CNBC World US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC%20World%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CNBC.World.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-18 02:00 - WNBA - Seattle Storm vs Las Vegas Aces (CNBC World US)
