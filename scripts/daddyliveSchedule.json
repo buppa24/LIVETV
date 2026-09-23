@@ -1,5 +1,41 @@
 {
     "Wednesday 23rd Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 FloRacing Night in America at Lincoln Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 High Limit Racing at Kokomo Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "FS1 USA",
+                        "channel_id": "39"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "\ud83e\udd4a INKA 61",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "27"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1202,6 +1238,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Streamm",
+                        "channel_id": "1210"
                     }
                 ]
             },
@@ -1212,6 +1252,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Streamm",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -1222,6 +1266,20 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Paraguay Copa : Fernando de la Mora vs Libertad Asuncion",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -2640,7 +2698,7 @@
         ],
         "Snoojker": [
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 1",
                 "channels": [
                     {
@@ -2650,7 +2708,7 @@
                 ]
             },
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 2",
                 "channels": [
                     {
@@ -2660,7 +2718,7 @@
                 ]
             },
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 3",
                 "channels": [
                     {
@@ -2670,7 +2728,7 @@
                 ]
             },
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 4",
                 "channels": [
                     {
@@ -3024,6 +3082,10 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
                     },
@@ -3040,6 +3102,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "MASN USA",
@@ -3068,6 +3134,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
                     },
@@ -3088,6 +3158,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "SportsNet Pittsburgh",
@@ -3488,7 +3562,7 @@
         ],
         "Darts \ud83c\udfaf": [
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfaf Darts Players Championship",
                 "channels": [
                     {
@@ -3498,7 +3572,7 @@
                 ]
             },
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfaf Darts Players Championship",
                 "channels": [
                     {
@@ -3508,7 +3582,7 @@
                 ]
             },
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfaf Darts Players Championship",
                 "channels": [
                     {
@@ -3518,7 +3592,7 @@
                 ]
             },
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfaf Darts Players Championship",
                 "channels": [
                     {
@@ -3528,7 +3602,7 @@
                 ]
             },
             {
-                "time": "18:54",
+                "time": "21:00",
                 "event": "\ud83c\udfaf Darts Players Championship",
                 "channels": [
                     {
