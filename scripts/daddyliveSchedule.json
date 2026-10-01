@@ -560,6 +560,10 @@
                     {
                         "channel_name": "Astro Football",
                         "channel_id": "124"
+                    },
+                    {
+                        "channel_name": "Event SD Strean",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -578,6 +582,26 @@
                 ]
             },
             {
+                "time": "12:30",
+                "event": "\u26bd ASEAN Championship : \ud83c\uddee\ud83c\udde9 Indonesia vs Bangladesh \ud83c\udde7\ud83c\udde9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "\u26bd ASEAN Championship : \ud83c\uddf2\ud83c\uddfe Malaysia vs Singapore \ud83c\uddf8\ud83c\uddec",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
                 "time": "13:15",
                 "event": "\u26bd UAE League Cup : Al Sharjah \ud83c\udde6\ud83c\uddea vs Al Dhafra \ud83c\udde6\ud83c\uddea",
                 "channels": [
@@ -588,12 +612,36 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfb Friendly Match : Maldives \ud83c\uddf2\ud83c\uddfb vs \ud83c\uddf1\ud83c\udde7 Lebanon \ud83c\uddf1\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Friendly Match : Uzbekistan \ud83c\uddfa\ud83c\uddff vs \ud83c\uddf8\ud83c\uddfe Syria \ud83c\uddf8\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
                 "time": "15:00",
                 "event": "\u26bd Euro U-21 Qualifying : Greece U21 \ud83c\uddec\ud83c\uddf7 vs Latvia U21 \ud83c\uddf1\ud83c\uddfb",
                 "channels": [
                     {
                         "channel_name": "ERT 2 Greece",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Strean",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -604,6 +652,10 @@
                     {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
+                    },
+                    {
+                        "channel_name": "Event SD Strean",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -638,6 +690,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "CBC Sport Azerbaijan",
@@ -750,6 +806,10 @@
                         "channel_id": "425"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
                         "channel_id": "372"
                     },
@@ -774,6 +834,60 @@
                     {
                         "channel_name": "RTCG 2 Montenegro",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd World Club Friendly Games : Trabzonspor vs Drogheda United",
+                "channels": [
+                    {
+                        "channel_name": "A Spor Turkey",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Cyprus Futsal Super Cup : Apoel vs AEK",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Norway NM Cup : Rana FK vs Bodo Glimt",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Norway NM Cup : Madla IL vs Viking",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Norway NM Cup : Baerum Sportsklubb vs Lillestrom",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     }
                 ]
             },
@@ -784,6 +898,20 @@
                     {
                         "channel_name": "Rai 2 IT",
                         "channel_id": "851"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    }
+                ]
+            },
+            {
+                "time": "16:45",
+                "event": "\u26bd UEFA Women Champions League : Koge W vs Servette Geneve FC W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -794,6 +922,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     },
                     {
                         "channel_name": "CBS Sports Network",
@@ -3808,6 +3940,46 @@
                 ]
             },
             {
+                "time": "16:21",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 1",
+                "channels": [
+                    {
+                        "channel_name": "Table 1 Stream",
+                        "channel_id": "261"
+                    }
+                ]
+            },
+            {
+                "time": "16:21",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 2",
+                "channels": [
+                    {
+                        "channel_name": "Table 2 Stream",
+                        "channel_id": "262"
+                    }
+                ]
+            },
+            {
+                "time": "16:21",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 3",
+                "channels": [
+                    {
+                        "channel_name": "Table 3 Stream",
+                        "channel_id": "263"
+                    }
+                ]
+            },
+            {
+                "time": "16:21",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 4",
+                "channels": [
+                    {
+                        "channel_name": "Table 4 Stream",
+                        "channel_id": "264"
+                    }
+                ]
+            },
+            {
                 "time": "06:00",
                 "event": "Snooker China Shenzhen Open : Michael Holt vs Kyren Wilson",
                 "channels": [
@@ -4180,6 +4352,16 @@
         ],
         "Basketball \ud83c\udfc0": [
             {
+                "time": "09:30",
+                "event": "\ud83c\udfc0 NBL : \ud83c\udde6\ud83c\uddfa Tasmania JackJumpers \ud83c\udde6\ud83c\uddfa vs \ud83c\udde6\ud83c\uddfa Melbourne United \ud83c\udde6\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
                 "time": "14:15",
                 "event": "\ud83c\udfc0 Russia Super League : Dynamo Ufa \ud83c\uddf7\ud83c\uddfa vs Barnaul Altay Kray \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
@@ -4208,6 +4390,10 @@
                     {
                         "channel_name": "Magenta Sport 302",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "M+ Vamos ES",
@@ -5039,6 +5225,16 @@
             }
         ],
         "Volleyball \ud83c\udfd0": [
+            {
+                "time": "10:20",
+                "event": "\ud83c\udfd0 Volleyball Asian Games : \ud83c\uddef\ud83c\uddf5 Japan vs Qatar \ud83c\uddf6\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
             {
                 "time": "15:30",
                 "event": "\ud83c\udfd0 I. Liga : Jaworzno \ud83c\uddf5\ud83c\uddf1 vs Lechia Tomaszow Mazowiecki \ud83c\uddf5\ud83c\uddf1",
