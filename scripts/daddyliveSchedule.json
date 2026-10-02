@@ -1,5 +1,21 @@
 {
     "Friday 02nd Oct 2026 - Schedule Time UK GMT": {
+        "Austin City Limits Music Festival \ud83c\udfb5": [
+            {
+                "time": "20:35",
+                "event": "\ud83c\udfb5 Austin City Limits Music Festival at Zilker Park, Austin, TX",
+                "channels": [
+                    {
+                        "channel_name": "Disney+",
+                        "channel_id": "938"
+                    },
+                    {
+                        "channel_name": "Disney+",
+                        "channel_id": "939"
+                    }
+                ]
+            }
+        ],
         "PPV Events": [
             {
                 "time": "13:00",
@@ -1926,6 +1942,10 @@
                         "channel_id": "758"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "3082"
                     },
@@ -1954,6 +1974,10 @@
                         "channel_id": "387"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
                     },
@@ -1974,6 +1998,20 @@
                     {
                         "channel_name": "Premiere 2 BR",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Colombia Primera B : Atl\u00e9tico FC vs Real Cundinamarca",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -1994,6 +2032,10 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     },
                     {
                         "channel_name": "Premiere BR",
@@ -2026,6 +2068,30 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Brazil Serie B : Londrina vs Crici\u00fama",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "\u26bd Brazil Serie B : Juventude vs Oper\u00e1rio-PR",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -4490,6 +4556,10 @@
                     {
                         "channel_name": "Arena Sport 8 Serbia",
                         "channel_id": "943"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             }
@@ -4964,7 +5034,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "18:37",
+                "time": "22:43",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open --- Table 1",
                 "channels": [
                     {
@@ -4974,7 +5044,7 @@
                 ]
             },
             {
-                "time": "18:37",
+                "time": "22:43",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open --- Table 2",
                 "channels": [
                     {
@@ -5132,6 +5202,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -5166,6 +5240,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -5628,8 +5706,8 @@
         ],
         "WNBA \ud83c\udfc0": [
             {
-                "time": "23:00",
-                "event": "\ud83c\udfc0 WNBA Basketball First Round: Teams TBA",
+                "time": "01:00",
+                "event": "\ud83c\udfc0 WNBA Basketball First Round Dallas Wings W vs Golden State Valkyries W : Teams TBA",
                 "channels": [
                     {
                         "channel_name": "TSN4",
@@ -5642,6 +5720,10 @@
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "150"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4060"
                     }
                 ]
             }
@@ -6424,6 +6506,10 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "Viaplay Sports 2 UK",
                         "channel_id": "550"
                     },
@@ -6464,6 +6550,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "Sportsnet East",
@@ -7720,6 +7810,10 @@
                     {
                         "channel_name": "ACCNX USA",
                         "channel_id": "00"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
