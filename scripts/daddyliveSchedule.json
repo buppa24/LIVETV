@@ -494,12 +494,66 @@
                 ]
             },
             {
+                "time": "13:10",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddea UAE League Cup : Al Wahda \ud83c\udde6\ud83c\uddea vs Al Dhafra \ud83c\udde6\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "13:10",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddea UAE League Cup : Ajman \ud83c\udde6\ud83c\uddea vs Bani Yas \ud83c\udde6\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    }
+                ]
+            },
+            {
+                "time": "13:15",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Mbeya City \ud83c\uddf9\ud83c\uddff vs Kagera Sugar \ud83c\uddf9\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Kokand 1912 \ud83c\uddfa\ud83c\uddff vs Mashal Muborak \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "\u26bd Friendly Match : \ud83c\uddee\ud83c\uddf1 Israel W vs Switzerland W \ud83c\udde8\ud83c\udded",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
                 "time": "13:50",
                 "event": "\u26bd Saudi Arabia - Pro League : Al Kholood \ud83c\uddf8\ud83c\udde6 vs Al Quadisiya \ud83c\uddf8\ud83c\udde6",
                 "channels": [
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -512,6 +566,36 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4110"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Nasaf Qarshi \ud83c\uddfa\ud83c\uddff vs Din Samarkand \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Pakhtakor \ud83c\uddfa\ud83c\uddff vs Bunyodkor \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Buxoro \ud83c\uddfa\ud83c\uddff vs Andijan \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -542,6 +626,10 @@
                     {
                         "channel_name": "TRT Avaz Turkey",
                         "channel_id": "155"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -552,6 +640,10 @@
                     {
                         "channel_name": "TRT Spor Turkey",
                         "channel_id": "889"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -566,12 +658,26 @@
                 ]
             },
             {
+                "time": "14:45",
+                "event": "\u26bd \ud83c\uddf6\ud83c\udde6 Qatar QSL : Qatar SC \ud83c\uddf6\ud83c\udde6 vs Al Rayyan \ud83c\uddf6\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    }
+                ]
+            },
+            {
                 "time": "14:55",
                 "event": "\u26bd Saudi Arabia - Pro League : Al Fateh \ud83c\uddf8\ud83c\udde6 vs Al-Ahli \ud83c\uddf8\ud83c\udde6",
                 "channels": [
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     },
                     {
                         "channel_name": "Fox Sports 2 USA",
@@ -593,11 +699,25 @@
             },
             {
                 "time": "15:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Veikkausliiga : SJK \ud83c\uddeb\ud83c\uddee vs Lahti \ud83c\uddeb\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
                 "event": "\u26bd Romania - Liga I : Corvinul Hunedoara \ud83c\uddf7\ud83c\uddf4 vs Voluntari \ud83c\uddf7\ud83c\uddf4",
                 "channels": [
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "400"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     },
                     {
                         "channel_name": "Prima Sport 1 Romania",
@@ -650,6 +770,20 @@
                     {
                         "channel_name": "Cytavision Sports 1 Cyprus",
                         "channel_id": "911"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Tanzania Ligi Kuu Bara : Dodoma Jiji vs Singida Black Stars",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -676,6 +810,10 @@
                         "channel_id": "259"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
+                    },
+                    {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
                         "channel_id": "372"
                     },
@@ -695,11 +833,159 @@
             },
             {
                 "time": "16:00",
+                "event": "\u26bd Denmark Division 1 : Vejle vs Hvidovre IF",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Bosnia and Herzegovina Premier League : Velez Mostar vs Siroki Brijeg",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Croatia 1 HNL : Gorica vs Rudes",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "\u26bd Czechia Czech First League : Zlin vs Slavia Praha",
                 "channels": [
                     {
                         "channel_name": "Oneplay Sport CZ",
                         "channel_id": "3041"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Belarus Vysshaya Liga : Arsenal Dzerzhinsk vs Dynamo Brest",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Women World Cup : Turkey W vs Slovenia W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Women World Cup : Slovakia W vs Ukraine W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Women World Cup : Kosovo W vs Austria W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1234"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Women World Cup : Albania W vs Wales W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1235"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Finland Ykkosliiga : Klubi 04 vs Ekenas",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1236"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Finland Ykkosliiga : KaPa vs Mikkeli",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1237"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Finland Ykkosliiga : JaPS vs Jippo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1238"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Finland Ykkosliiga : Haka vs PK-35",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1239"
+                    }
+                ]
+            },
+            {
+                "time": "16:05",
+                "event": "\u26bd Women World Cup : Lithuania W vs Sweden W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1240"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd FIFA Women's World Cup Qualifying : Greece \ud83c\uddec\ud83c\uddf7 vs England",
+                "channels": [
+                    {
+                        "channel_name": "ITV 1 UK",
+                        "channel_id": "350"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -750,6 +1036,10 @@
                         "channel_id": "948"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "Eleven Sports 3 Poland",
                         "channel_id": "428"
                     },
@@ -786,6 +1076,10 @@
                     {
                         "channel_name": "Sky Sport Bundesliga 3",
                         "channel_id": "947"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "DAZN Eleven 2 Portugal",
@@ -860,8 +1154,22 @@
                         "channel_id": "573"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "16:45",
+                "event": "\u26bd Women World Cup : Croatia W vs Iceland W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -946,6 +1254,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1242"
+                    },
+                    {
                         "channel_name": "Magenta Sport 301",
                         "channel_id": "3015"
                     }
@@ -958,6 +1270,10 @@
                     {
                         "channel_name": "beIN Sports 1 Turkey",
                         "channel_id": "62"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "beIN SPORTS USA",
@@ -1012,6 +1328,80 @@
                     {
                         "channel_name": "TV 2 Play Norway",
                         "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Denmark SuperLiga : Nordsjaelland vs Odense",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Denmark Division 1 : AB Copenhagen vs Aarhus Fremad",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Division 1 : Sollentuna vs Stocksund",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Qatar QSL : Al Sadd vs Al Arabi",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1233"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Portugal Liga 2 : Penafiel vs AFS",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1241"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Turkey Lig 1 : Vanspor FK vs Bandirmaspor",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1245"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Turkey Lig 1 : Umraniyespor vs Sariyer",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
                     }
                 ]
             },
@@ -2176,6 +2566,10 @@
                     {
                         "channel_name": "BBC Alba",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1244"
                     }
                 ]
             },
@@ -2190,6 +2584,10 @@
                     {
                         "channel_name": "NRK2 Norway",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1243"
                     }
                 ]
             },
@@ -3780,6 +4178,10 @@
                     {
                         "channel_name": "DAZN F1 ES",
                         "channel_id": "537"
+                    },
+                    {
+                        "channel_name": "F1 Italy",
+                        "channel_id": "5094"
                     },
                     {
                         "channel_name": "Canal+ Sport France",
@@ -5454,6 +5856,14 @@
                 "event": "\ud83c\udfaf Swiss Darts Trophy 2026 Day 1 - Session 1",
                 "channels": [
                     {
+                        "channel_name": "Board 1",
+                        "channel_id": "938"
+                    },
+                    {
+                        "channel_name": "Board 2",
+                        "channel_id": "939"
+                    },
+                    {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
                     },
@@ -5475,6 +5885,14 @@
                 "time": "17:00",
                 "event": "\ud83c\udfaf Swiss Darts Trophy 2026 Day 1 - Session 2",
                 "channels": [
+                    {
+                        "channel_name": "Board 1",
+                        "channel_id": "938"
+                    },
+                    {
+                        "channel_name": "Board 2",
+                        "channel_id": "939"
+                    },
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
@@ -5566,6 +5984,10 @@
                     {
                         "channel_name": "\u041c\u0430\u0442\u0447 \u0410\u0440\u0435\u043d\u0430 Russia",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -5872,6 +6294,10 @@
                         "channel_id": "707"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1247"
+                    },
+                    {
                         "channel_name": "TV4 Sportkanalen Sweden",
                         "channel_id": "3066"
                     }
@@ -5884,6 +6310,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1 Sweden",
                         "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
                     },
                     {
                         "channel_name": "TV4 Sport Live 1 Sweden",
@@ -5900,6 +6330,10 @@
                         "channel_id": "706"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
+                    },
+                    {
                         "channel_name": "TV4 Sport Live 4 Sweden",
                         "channel_id": "3064"
                     }
@@ -5912,6 +6346,10 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "705"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
                     },
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
@@ -5928,6 +6366,10 @@
                         "channel_id": "704"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1251"
+                    },
+                    {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "3062"
                     }
@@ -5940,6 +6382,10 @@
                     {
                         "channel_name": "TV4 Sport Live Sweden",
                         "channel_id": "3059"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1252"
                     }
                 ]
             },
@@ -5950,6 +6396,10 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1253"
                     },
                     {
                         "channel_name": "TV4 Hockey Sweden",
@@ -5964,6 +6414,10 @@
                     {
                         "channel_name": "TV4 Fotboll",
                         "channel_id": "3067"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     }
                 ]
             },
@@ -6622,6 +7076,10 @@
                     {
                         "channel_name": "Canal+ Sport France",
                         "channel_id": "122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
